@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am an experienced Front-End Developer with a passion for enhancing User Experiences through creative and innovative solutions. I enjoy exploring various open-source projects and tools to create seamless and engaging User Journeys.
+I am an experienced Front-End Developer with a passion for enhancing User Experiences through creative and innovative solutions. I enjoy exploring various open-source projects and tools to create seamless and engaging User Journeys.
 
 
 - 🔭 I’m currently working on The Brand crew
